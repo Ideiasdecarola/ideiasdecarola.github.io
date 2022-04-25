@@ -34,6 +34,7 @@ body {
     color: #fff2E7;
     font-weight: 400;
     font-size: 18px;
+    
 }
 
 .conteudo {
@@ -73,12 +74,12 @@ body {
         background-color: #ECD6C4;
         width:180px;
         height: 60px;
-        border: none;
+        border: topcolor;  
         box-shadow: 4px 5px 4px rgba(0,0,0,0.25);
         border-radius: 20px;
         font-family: 'sarala', sans-serif;
         font-weight: 24px;
-        font-size: 24px;
+        font-size: 18px;
         color: #2F2325;
     }
 
@@ -129,3 +130,23 @@ body {
     margin: 0 auto;
 }
 
+.quemsomos {
+    background-color: #ECD6C4;
+    width: 560;
+    margin: center;
+    padding: 10px;
+    box-shadow: #103100;
+    font-size: 18px; color: rgb(2, 77, 2);
+}
+
+.texto1 {
+    font-size: 1em;
+    color: rgb(2, 77, 2);
+}
+
+.rodape1 {
+
+    font-size: 1em;
+    font: helvetica;
+    color: rgb(2, 77, 2)
+}
