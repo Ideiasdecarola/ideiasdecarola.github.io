@@ -134,18 +134,23 @@ body {
     background-color: #ECD6C4;
     width: 560;
     margin: center;
-    padding: 10px;
+    padding:  10px;
     box-shadow: #103100;
     font-size: 18px; color: rgb(2, 77, 2);
+
 }
+
+a:hover {
+    color: white;
+    }
 
 .texto1 {
     font-size: 1em;
     color: rgb(2, 77, 2);
+    padding: 10px; 
 }
 
 .rodape1 {
-
     font-size: 1em;
     font: helvetica;
     color: rgb(2, 77, 2)
