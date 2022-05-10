@@ -1,4 +1,3 @@
 Oie, pessoal!
 
-Meu primeiro repositório baseado no meu canal do youtube Qual é a trip.
-
+Meu primeiro repositório baseado no  canal do youtube do qual é a trip! 
